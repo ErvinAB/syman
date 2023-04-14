@@ -1,0 +1,14 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "besart.domazet@technoperia.com",
+  "password": "Besart123!",
+  "incorectemail": "test.test@technoperia.com",
+  "incorrectpassword": "EATestAut!",
+  "url":"https://dev-app.symanto.com/",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "UserName": "Ervin",
+  "UserSurname": "Test",
+  "UserEmail": "test@tes.com",
+  "UserPassword": "TestAuto123!",
+  "UserCompany":"Technoperia Test"
+}
